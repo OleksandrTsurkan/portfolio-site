@@ -47,6 +47,7 @@ const projects = [
     img: project04,
     imgBig: project04Big,
     skills: 'React Native',
+    gitHubLink: 'https://github.com',
   },
   {
     id: 4,
@@ -54,6 +55,7 @@ const projects = [
     img: project05,
     imgBig: project05Big,
     skills: 'HTML, SCSS, JS',
+    gitHubLink: 'https://github.com',
   },
   {
     id: 5,
@@ -61,6 +63,7 @@ const projects = [
     img: project06,
     imgBig: project06Big,
     skills: 'React, PHP, MySql',
+    gitHubLink: 'https://github.com',
   },
 ];
 
